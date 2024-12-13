@@ -386,6 +386,7 @@ p{
     margin: 30px 0;
     margin-left: 25px;
     border-radius: 30px;
+   cursor: pointer;
     transition: background 0.5s;/*below I have specified the change in button color when hover. this transition will delay color change by 0.5 sec*/
 }
 .btn:hover{
