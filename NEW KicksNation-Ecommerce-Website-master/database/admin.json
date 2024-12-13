@@ -1,17 +1,17 @@
 {
-  "Storename": "Kenneth Store",
+  "Storename": "JV Store",
   "Storedescription": "Selling technology",
-  "businessEmail": "kennethjohnarante@gmail.com",
+  "businessEmail": "JV@gmail.com",
   "admin": [
     {
       "Adminid": 1,
-      "AdminName": "Lusam Delictor",
+      "AdminName": "Jeyvee Amores",
       "Username": "Admin",
       "Password": "@Admin123"
     },
     {
       "Adminid": 2,
-      "AdminName": "Joshua",
+      "AdminName": "Jv",
       "Username": "Admin2",
       "Password": "@Admin123"
     }
@@ -26,17 +26,17 @@
       "Item": [
         {
           "Itemid": 1,
-          "Name": " Kyrie 2 All Star Basketball Shoes (Red)",
+          "Name": "Real Madrid 24/25 Third Jersey",
           "Quantity": 2,
-          "Size": "38",
-          "Price": 730.99
+          "Size": "Medium",
+          "Price": 1730.99
         },
         {
-          "Itemid": 27,
-          "Name": "SUPERBOLLYMAN",
+          "Itemid": 24,
+          "Name": "PUMA x THE BROOKLYN CIRCUS",
           "Quantity": 1,
-          "Size": "38",
-          "Price": 1000
+          "Size": "Small",
+          "Price": 4699.99
         }
       ]
     },
@@ -48,18 +48,18 @@
       "Total": "2299.98",
       "Item": [
         {
-          "Itemid": 29,
-          "Name": "SUPERMANXBOLLYMAN",
+          "Itemid": 2,
+          "Name": "Nike Club Fleece",
           "Quantity": 1,
-          "Size": "40",
-          "Price": 999.99
+          "Size": "Large",
+          "Price": 3119
         },
         {
-          "Itemid": 30,
-          "Name": "I AM MUSIC",
+          "Itemid": 3,
+          "Name": "Nike",
           "Quantity": 1,
-          "Size": "42",
-          "Price": 999.99
+          "Size": "Exta Large",
+          "Price": 1599
         }
       ]
     },
@@ -71,24 +71,24 @@
       "Total": "5635.41",
       "Item": [
         {
-          "Itemid": 27,
-          "Name": "BUMFIGHHT",
+          "Itemid": 3,
+          "Name": "Nike",
           "Quantity": 3,
-          "Size": "42",
-          "Price": 1000.123
+          "Size": "Exta Large",
+          "Price": 1599
         },
         {
           "Itemid": 29,
           "Name": "SUPERMANXBOLLYMAN",
           "Quantity": 1,
-          "Size": "38",
+          "Size": "Medium",
           "Price": 999.99
         },
         {
           "Itemid": 4,
           "Name": "Nike Calm (Green)",
           "Quantity": 9,
-          "Size": "38",
+          "Size": "Medium",
           "Price": 100
         }
       ]
